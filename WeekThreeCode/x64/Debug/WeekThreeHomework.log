@@ -1,0 +1,4 @@
+﻿  WeekThreeHomework.cpp
+C:\Users\orteg\Downloads\LSC FALL 23\GAME 2303 - AI PROGRAMMING\Week Three\WeekThreeHomework\WeekThreeHomework.cpp(48,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orteg\Downloads\LSC FALL 23\GAME 2303 - AI PROGRAMMING\Week Three\WeekThreeHomework\WeekThreeHomework.cpp(53,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  WeekThreeHomework.vcxproj -> C:\Users\orteg\Downloads\LSC FALL 23\GAME 2303 - AI PROGRAMMING\Week Three\WeekThreeHomework\x64\Debug\WeekThreeHomework.exe
